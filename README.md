@@ -26,9 +26,7 @@ Protein Preparation
 → Production MD
 → Trajectory Analysis
 
-<p align="center">
-  <img src="images/workflow.jpg" width="900">
-</p>
+![AChE Apigenin MD Analysis](images/ACHE_Apigenin_MD_analysis.png)
 
 
 ## Author

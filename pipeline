@@ -1,0 +1,37 @@
+Parkinson_MD/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── proteins/
+│   ├── ache.pdb
+│   └── ache_processed.gro
+│
+├── ligands/
+│   ├── apigenin.pdb
+│   ├── kaempferol.pdb
+│   ├── luteolin.pdb
+│   └── quercetin.pdb
+│
+├── docking/
+│
+├── complexes/
+│   ├── apigenin_ACHE/
+│   ├── kaempferol_ACHE/
+│   ├── luteolin_ACHE/
+│   └── quercetin_ACHE/
+│
+├── scripts/
+│   ├── prepare_protein.sh
+│   ├── md_run.sh
+│   └── analysis.sh
+│
+├── results/
+│   ├── RMSD/
+│   ├── RMSF/
+│   ├── Hbond/
+│   └── MM-PBSA/
+│
+└── docs/
+    └── workflow.png

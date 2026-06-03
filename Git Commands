@@ -1,0 +1,13 @@
+cd ~/md_simulation/molecular-dynamics-simulation
+
+git init
+
+git add .
+
+git commit -m "Initial commit - molecular-dynamics-simulation"
+
+git branch -M main
+
+git remote add origin https://github.com/molecular-dynamics-simulation
+
+git push -u origin main

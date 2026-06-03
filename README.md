@@ -26,9 +26,10 @@ Protein Preparation
 → Production MD
 → Trajectory Analysis
 
-## Workflow
+<p align="center">
+  <img src="images/workflow.jpg" width="900">
+</p>
 
-![Workflow](images/workflow.jpg)
 
 ## Author
 Rituraj Kumar

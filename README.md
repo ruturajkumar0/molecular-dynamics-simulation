@@ -99,10 +99,6 @@ images/        Figures and graphical outputs
 ![AChE–Apigenin MD Analysis](images/ACHE_Apigenin_MD_analysis.png)
 
 ---
-## MD Simulation Result
-
-![AChE Apigenin MD Analysis](images/ACHE_Apigenin_MD_analysis.png)
----
 
 ## Molecular Dynamics Simulation Video
 
@@ -110,7 +106,7 @@ images/        Figures and graphical outputs
 
 ---
 
-## Key Analyses
+## Main Analyses
 
 * Root Mean Square Deviation (RMSD)
 * Root Mean Square Fluctuation (RMSF)
@@ -139,15 +135,6 @@ Computational Biology, Molecular Docking, Molecular Dynamics Simulation, Drug Di
 ## License
 
 This project is released under the MIT License.
-
-
-## MD Simulation Video
-
-🎥 [Watch Simulation Video](./output_progressive_.mp4)
-
-
-## Author
-Rituraj Kumar
 
 ## Citation
 Please cite if you use this project.

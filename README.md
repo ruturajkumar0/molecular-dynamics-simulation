@@ -29,6 +29,11 @@ Protein Preparation
 ![AChE Apigenin MD Analysis](images/ACHE_Apigenin_MD_analysis.png)
 
 
+## MD Simulation Video
+
+🎥 [Watch Simulation Video](./output_progressive_.mp4)
+
+
 ## Author
 Rituraj Kumar
 

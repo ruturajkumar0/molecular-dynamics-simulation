@@ -1,0 +1,12 @@
+# GROMACS
+*.xtc
+*.trr
+*.edr
+*.cpt
+*.log
+
+# macOS
+.DS_Store
+
+# Backup files
+#*
